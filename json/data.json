@@ -1,0 +1,51 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Blue Template",
+    "description": "This is my Template. Buy it for begin a develop web application",
+    "price": 9.99,
+    "type": "html5",
+    "image": "blue.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gray Template",
+    "description": "This is my Template. Buy it for begin a develop web application",
+    "price": 9.99,
+    "type": "html5",
+    "image": "gray.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Green Template",
+    "description": "This is my Template. Buy it for begin a develop web application",
+    "price": 9.99,
+    "type": "html5",
+    "image": "green.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Orange Template",
+    "description": "This is my Template. Buy it for begin a develop web application",
+    "price": 9.99,
+    "type": "html5",
+    "image": "orange.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Purple Template",
+    "description": "This is my Template. Buy it for begin a develop web application",
+    "price": 9.99,
+    "type": "html5",
+    "image": "purple.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Red Template",
+    "description": "This is my Template. Buy it for begin a develop web application",
+    "price": 9.99,
+    "type": "html5",
+    "image": "red.jpg"
+  }
+]
+

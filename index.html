@@ -1,0 +1,41 @@
+﻿<html ng-app="myApp">
+<head>
+  <title>Template Store</title>
+    <!--LOAD BOOTSTRAP CSS-->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="app.css" />
+</head>
+<body>
+    <!--Create a black navbar-->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#/templateStore">Template Store</a>
+            </div>
+        </div>
+    </nav>
+    <br />
+
+  <div ng-view></div>
+
+    <!--LOAD JQUERY AND BOOSTRAP SCRIPTS-->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <!--LOAD ANGULAR-->    
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+
+    <!--LOAD SCRIPTS-->   
+    <script src="app.js"></script>
+    <script src="controllers/templateStoreCtrl.js"></script>
+    <script src="controllers/templateStoreDetailsCtrl.js"></script>
+
+</body>
+</html>
