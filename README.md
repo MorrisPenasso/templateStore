@@ -3,7 +3,7 @@ This is a simple Template Store in AngularJS.
 
 In this web application, i use "angular-feed" project, the seed for AngularJS apps and i used bower package manager for install bootstrap and jquery. 
 
-##FOLLOW THIS STEPS
+### FOLLOW THIS STEPS
 
 Angular-seed project allow to obtain a default angular project with the follow most important file precompiled:
 
@@ -23,7 +23,7 @@ For more details, see angular-seed repository and follow steps to configure your
 
 Now that you have create a default Angular project, you can built this web application:
 
-**I LOADED ONLY FILES THAT I BUILT WITHOUT ALL DIRECTORYS of ANGULAR-SEED, BOWER COMPONENTS AND ALL NODE-MODULES.**
+**I LOADED ONLY FILES THAT I BUILT WITHOUT ALL DIRECTORY OF ANGULAR-SEED, BOWER COMPONENTS AND ALL NODE-MODULES. INSERT MY PROJECT INTO YOUR APP FOLDER**
 
 ![cattura](https://cloud.githubusercontent.com/assets/20413873/16768492/e23b2f48-4844-11e6-8c5b-5843f409a510.PNG) 
 
