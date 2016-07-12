@@ -1,7 +1,7 @@
 # templateStore
-This is a simple Template Store in AngularJS. 
+This is a simple Template Store in AngularJS - http://www.mywebapps.it/templateStore
 
-In this web application, i use "angular-feed" project, the seed for AngularJS apps and i used bower package manager for install bootstrap and jquery. 
+In this web application, i use "angular-feed" project, the seed for AngularJS apps, i used bower package manager for install bootstrap and jquery and i create a web server.
 
 Angular-seed project allow to obtain a default angular project with the follow most important file precompiled:
 
