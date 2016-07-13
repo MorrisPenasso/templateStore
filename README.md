@@ -14,7 +14,8 @@ Angular-seed project allow to obtain a default angular project with the follow m
 ### BEFORE TO DOWNLOAD MY PROJECT, FOLLOW THIS STEPS
 
 - For the first thing, clone angular-seed with this command:
-  git clone --depth=1 https://github.com/angular/angular-seed.git <your-project-name>. 
+  git clone --depth=1 https://github.com/angular/angular-seed.git and insert your project name.
+
   We have create a standard Angular App
 
 - Open your project folder with Git Bash and call "npm install" command. This command has been built into angular-seed for       import all node-modules, it import Bower Package Manager and automatically he import Angular Framework and angular-route.
