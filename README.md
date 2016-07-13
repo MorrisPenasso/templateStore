@@ -7,7 +7,7 @@ Angular-seed project allow to obtain a default angular project with the follow m
 
 - Index file
 - Two views
-- Two controller's viwes
+- Two controller's views
 - Configuration file ( app.js ) with ngRoute module that allows to mapping your views/controllers
 - And more...
 
